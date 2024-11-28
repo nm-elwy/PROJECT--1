@@ -348,3 +348,7 @@ Conclusion
 
 The visualizations presented are designed to guide stakeholders in assessing aircraft risk factors, focusing on damage resilience, weather-related injuries, flight purpose risks, and geographic safety trends. Together, these visuals provide actionable insights to support data-driven decisions in the company’s aviation expansion. By presenting findings in a clear and polished format, stakeholders are equipped to evaluate aircraft options confidently.
 
+
+link to TABLEAU DASHBOARD
+
+https://public.tableau.com/app/profile/neema.elaly/viz/AIRCRAFTRISKANALYSISDASHBOARD/AIRCRAFTRISKANALYSISDASHBOARD?publish=yes
